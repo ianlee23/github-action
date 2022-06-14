@@ -6,7 +6,7 @@
 -->
 
 # Hello GitHub Actions
-
+## this is only for testing action
 _Create a GitHub Action and use it in a workflow._
 
 <!--
